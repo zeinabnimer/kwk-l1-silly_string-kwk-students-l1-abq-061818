@@ -1,7 +1,7 @@
 
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = ""
+your_favorite_word = "chocolate"
 
 puts "My favorite word is #{your_favorite_word}"
 
@@ -12,7 +12,6 @@ favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite wor
 puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
-
 phrase = "IM NOT SHOUTING"
 
 lowercased_phrase = phrase # Put a . after phrase and use a String method.
